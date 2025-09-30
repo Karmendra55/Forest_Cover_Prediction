@@ -1,0 +1,30 @@
+{
+  "timestamp": "20250911_125149",
+  "prediction": 7,
+  "prediction_name": "Krummholz",
+  "confidence": 67.18021392822266,
+  "probabilities": [
+    0.3219050168991089,
+    0.006135865580290556,
+    0.00012014042295049876,
+    3.1848635444475804e-06,
+    8.996818905870896e-06,
+    2.459937059029471e-05,
+    0.6718021631240845
+  ],
+  "inputs": {
+    "elevation": 3481,
+    "aspect": 352,
+    "slope": 36,
+    "horz_dist_hydro": 238,
+    "vert_dist_hydro": 771,
+    "horz_dist_road": 4058,
+    "horz_dist_fire": 7489,
+    "hillshade_9am": 107,
+    "hillshade_noon": 183,
+    "hillshade_3pm": 219,
+    "wilderness_area": "Wilderness_Area2",
+    "soil_type": "Soil_Type22"
+  },
+  "path": "Saved_Predictions\\single\\20250911_125149"
+}

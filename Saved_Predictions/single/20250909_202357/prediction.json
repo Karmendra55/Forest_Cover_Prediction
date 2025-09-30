@@ -1,0 +1,30 @@
+{
+  "timestamp": "20250909_202357",
+  "prediction": 1,
+  "prediction_name": "Spruce/Fir",
+  "confidence": 96.20597076416016,
+  "probabilities": [
+    0.9620596766471863,
+    0.03777998313307762,
+    3.7603611417580396e-05,
+    6.330033556878334e-06,
+    9.123792551690713e-05,
+    5.293825779517647e-06,
+    1.9784270989475772e-05
+  ],
+  "inputs": {
+    "elevation": 2997,
+    "aspect": 65,
+    "slope": 35,
+    "horz_dist_hydro": 1879,
+    "vert_dist_hydro": 113,
+    "horz_dist_road": 2726,
+    "horz_dist_fire": 6636,
+    "hillshade_9am": 115,
+    "hillshade_noon": 32,
+    "hillshade_3pm": 35,
+    "wilderness_area": "Wilderness_Area1",
+    "soil_type": "Soil_Type22"
+  },
+  "path": "Saved_Predictions\\single\\20250909_202357"
+}

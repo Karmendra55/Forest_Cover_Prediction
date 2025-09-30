@@ -1,0 +1,30 @@
+{
+  "timestamp": "20250911_165114",
+  "prediction": 5,
+  "prediction_name": "Aspen",
+  "confidence": 55.62431716918945,
+  "probabilities": [
+    0.008182516321539879,
+    0.03304434195160866,
+    0.037826064974069595,
+    7.221340638352558e-05,
+    0.5562431812286377,
+    0.3645823001861572,
+    4.941004954162054e-05
+  ],
+  "inputs": {
+    "elevation": 2471,
+    "aspect": 8,
+    "slope": 8,
+    "horz_dist_hydro": 68,
+    "vert_dist_hydro": 43,
+    "horz_dist_road": 3040,
+    "horz_dist_fire": 5720,
+    "hillshade_9am": 238,
+    "hillshade_noon": 254,
+    "hillshade_3pm": 140,
+    "wilderness_area": "Wilderness_Area2",
+    "soil_type": "Soil_Type36"
+  },
+  "path": "Saved_Predictions\\single\\20250911_165114"
+}

@@ -1,0 +1,30 @@
+{
+  "timestamp": "20250910_110250",
+  "prediction": 2,
+  "prediction_name": "Lodgepole Pine",
+  "confidence": 66.88046264648438,
+  "probabilities": [
+    0.17266270518302917,
+    0.6688046455383301,
+    0.06111442297697067,
+    0.004071830306202173,
+    0.014750868082046509,
+    0.05404311418533325,
+    0.024552414193749428
+  ],
+  "inputs": {
+    "elevation": 1531,
+    "aspect": 315,
+    "slope": 74,
+    "horz_dist_hydro": 1531,
+    "vert_dist_hydro": 688,
+    "horz_dist_road": 6601,
+    "horz_dist_fire": 4960,
+    "hillshade_9am": 152,
+    "hillshade_noon": 224,
+    "hillshade_3pm": 167,
+    "wilderness_area": "Wilderness_Area1",
+    "soil_type": "Soil_Type36"
+  },
+  "path": "Saved_Predictions\\single\\20250910_110250"
+}

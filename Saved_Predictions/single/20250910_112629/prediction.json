@@ -1,0 +1,30 @@
+{
+  "timestamp": "20250910_112629",
+  "prediction": 3,
+  "prediction_name": "Ponderosa Pine",
+  "confidence": 98.48712921142578,
+  "probabilities": [
+    0.007191741839051247,
+    0.0006554137216880918,
+    0.9848713278770447,
+    0.00012027842603856698,
+    6.0509846662171185e-05,
+    0.006672773510217667,
+    0.0004280966822989285
+  ],
+  "inputs": {
+    "elevation": 2175,
+    "aspect": 336,
+    "slope": 62,
+    "horz_dist_hydro": 238,
+    "vert_dist_hydro": 530,
+    "horz_dist_road": 3396,
+    "horz_dist_fire": 2691,
+    "hillshade_9am": 115,
+    "hillshade_noon": 42,
+    "hillshade_3pm": 158,
+    "wilderness_area": "Wilderness_Area2",
+    "soil_type": "Soil_Type40"
+  },
+  "path": "Saved_Predictions\\single\\20250910_112629"
+}

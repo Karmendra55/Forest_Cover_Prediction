@@ -1,0 +1,30 @@
+{
+  "timestamp": "20250911_125118",
+  "prediction": 6,
+  "prediction_name": "Douglas-fir",
+  "confidence": 97.57872772216797,
+  "probabilities": [
+    2.6114077627426013e-05,
+    5.604671241599135e-05,
+    0.023967893794178963,
+    4.579829328577034e-05,
+    0.00011518038809299469,
+    0.9757872819900513,
+    1.6893051224542432e-06
+  ],
+  "inputs": {
+    "elevation": 1621,
+    "aspect": 203,
+    "slope": 6,
+    "horz_dist_hydro": 1980,
+    "vert_dist_hydro": 61,
+    "horz_dist_road": 1594,
+    "horz_dist_fire": 3269,
+    "hillshade_9am": 101,
+    "hillshade_noon": 242,
+    "hillshade_3pm": 109,
+    "wilderness_area": "Wilderness_Area3",
+    "soil_type": "Soil_Type32"
+  },
+  "path": "Saved_Predictions\\single\\20250911_125118"
+}

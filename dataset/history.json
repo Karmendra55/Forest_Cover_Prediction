@@ -1,0 +1,1928 @@
+{
+  "single": [
+    {
+      "timestamp": "2025-09-08 17:20:03",
+      "path": "Saved_Predictions\\single\\20250908_172002",
+      "prediction": 2,
+      "prediction_name": "Lodgepole Pine",
+      "confidence": 77.55113220214844,
+      "probabilities": [
+        0.18016953766345978,
+        0.7755113244056702,
+        0.016088025644421577,
+        2.3255419364431873e-05,
+        0.0252626184374094,
+        0.00021134245616849512,
+        0.002733905566856265
+      ],
+      "inputs": {
+        "elevation": 2830,
+        "aspect": 291,
+        "slope": 27,
+        "horz_dist_hydro": 1967,
+        "vert_dist_hydro": 289,
+        "horz_dist_road": 4873,
+        "horz_dist_fire": 5721,
+        "hillshade_9am": 135,
+        "hillshade_noon": 203,
+        "hillshade_3pm": 41,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type28"
+      }
+    },
+    {
+      "timestamp": "2025-09-09 11:21:17",
+      "path": "Saved_Predictions\\single\\20250909_112116",
+      "prediction": 3,
+      "prediction_name": "Ponderosa Pine",
+      "confidence": 92.63212585449219,
+      "probabilities": [
+        0.005768930539488792,
+        0.0005839272052980959,
+        0.926321268081665,
+        0.00033949469798244536,
+        0.05383535847067833,
+        0.012596771121025085,
+        0.0005543155712075531
+      ],
+      "inputs": {
+        "elevation": 1738,
+        "aspect": 80,
+        "slope": 41,
+        "horz_dist_hydro": 52,
+        "vert_dist_hydro": 369,
+        "horz_dist_road": 3140,
+        "horz_dist_fire": 7506,
+        "hillshade_9am": 78,
+        "hillshade_noon": 21,
+        "hillshade_3pm": 0,
+        "wilderness_area": "Wilderness_Area3",
+        "soil_type": "Soil_Type31"
+      }
+    },
+    {
+      "timestamp": "2025-09-09 17:39:10",
+      "path": "Saved_Predictions\\single\\20250909_173909",
+      "prediction": 2,
+      "prediction_name": "Lodgepole Pine",
+      "confidence": 91.4796142578125,
+      "probabilities": [
+        0.0003240959777031094,
+        0.9147961735725403,
+        0.02067755162715912,
+        0.0002420356759103015,
+        0.006148175802081823,
+        0.057420313358306885,
+        0.000391633075196296
+      ],
+      "inputs": {
+        "elevation": 2500,
+        "aspect": 180,
+        "slope": 30,
+        "horz_dist_hydro": 250,
+        "vert_dist_hydro": 100,
+        "horz_dist_road": 600,
+        "horz_dist_fire": 800,
+        "hillshade_9am": 124,
+        "hillshade_noon": 124,
+        "hillshade_3pm": 124,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type1"
+      }
+    },
+    {
+      "timestamp": "2025-09-09 20:17:18",
+      "path": "Saved_Predictions\\single\\20250909_201717",
+      "prediction": 2,
+      "prediction_name": "Lodgepole Pine",
+      "confidence": 61.74892044067383,
+      "probabilities": [
+        0.3626551032066345,
+        0.617489218711853,
+        9.572547423886135e-05,
+        4.3447589632705785e-06,
+        0.018765656277537346,
+        0.0009091030224226415,
+        8.083664579316974e-05
+      ],
+      "inputs": {
+        "elevation": 2805,
+        "aspect": 297,
+        "slope": 30,
+        "horz_dist_hydro": 55,
+        "vert_dist_hydro": 510,
+        "horz_dist_road": 1305,
+        "horz_dist_fire": 5532,
+        "hillshade_9am": 78,
+        "hillshade_noon": 220,
+        "hillshade_3pm": 236,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type17"
+      }
+    },
+    {
+      "timestamp": "2025-09-09 20:17:53",
+      "path": "Saved_Predictions\\single\\20250909_201752",
+      "prediction": 2,
+      "prediction_name": "Lodgepole Pine",
+      "confidence": 61.74892044067383,
+      "probabilities": [
+        0.3626551032066345,
+        0.617489218711853,
+        9.572547423886135e-05,
+        4.3447589632705785e-06,
+        0.018765656277537346,
+        0.0009091030224226415,
+        8.083664579316974e-05
+      ],
+      "inputs": {
+        "elevation": 2805,
+        "aspect": 297,
+        "slope": 30,
+        "horz_dist_hydro": 55,
+        "vert_dist_hydro": 510,
+        "horz_dist_road": 1305,
+        "horz_dist_fire": 5532,
+        "hillshade_9am": 78,
+        "hillshade_noon": 220,
+        "hillshade_3pm": 236,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type17"
+      }
+    },
+    {
+      "timestamp": "2025-09-09 20:19:19",
+      "path": "Saved_Predictions\\single\\20250909_201918",
+      "prediction": 2,
+      "prediction_name": "Lodgepole Pine",
+      "confidence": 61.74892044067383,
+      "probabilities": [
+        0.3626551032066345,
+        0.617489218711853,
+        9.572547423886135e-05,
+        4.3447589632705785e-06,
+        0.018765656277537346,
+        0.0009091030224226415,
+        8.083664579316974e-05
+      ],
+      "inputs": {
+        "elevation": 2805,
+        "aspect": 297,
+        "slope": 30,
+        "horz_dist_hydro": 55,
+        "vert_dist_hydro": 510,
+        "horz_dist_road": 1305,
+        "horz_dist_fire": 5532,
+        "hillshade_9am": 78,
+        "hillshade_noon": 220,
+        "hillshade_3pm": 236,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type17"
+      }
+    },
+    {
+      "timestamp": "2025-09-09 20:23:58",
+      "path": "Saved_Predictions\\single\\20250909_202357",
+      "prediction": 1,
+      "prediction_name": "Spruce/Fir",
+      "confidence": 96.20597076416016,
+      "probabilities": [
+        0.9620596766471863,
+        0.03777998313307762,
+        3.7603611417580396e-05,
+        6.330033556878334e-06,
+        9.123792551690713e-05,
+        5.293825779517647e-06,
+        1.9784270989475772e-05
+      ],
+      "inputs": {
+        "elevation": 2997,
+        "aspect": 65,
+        "slope": 35,
+        "horz_dist_hydro": 1879,
+        "vert_dist_hydro": 113,
+        "horz_dist_road": 2726,
+        "horz_dist_fire": 6636,
+        "hillshade_9am": 115,
+        "hillshade_noon": 32,
+        "hillshade_3pm": 35,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type22"
+      }
+    },
+    {
+      "timestamp": "20250910_001801",
+      "path": "Saved_Predictions\\single\\20250910_001801",
+      "prediction": 3,
+      "prediction_name": "Ponderosa Pine",
+      "confidence": 97.8687744140625,
+      "probabilities": [
+        0.0009977302979677916,
+        0.00015775610518176109,
+        0.9786877632141113,
+        0.013185882940888405,
+        0.00016084883827716112,
+        0.006662000901997089,
+        0.00014799179916735739
+      ],
+      "inputs": {
+        "elevation": 2225,
+        "aspect": 146,
+        "slope": 64,
+        "horz_dist_hydro": 1806,
+        "vert_dist_hydro": 615,
+        "horz_dist_road": 4853,
+        "horz_dist_fire": 1270,
+        "hillshade_9am": 34,
+        "hillshade_noon": 70,
+        "hillshade_3pm": 85,
+        "wilderness_area": "Wilderness_Area4",
+        "soil_type": "Soil_Type22"
+      }
+    },
+    {
+      "timestamp": "20250910_110103",
+      "path": "Saved_Predictions\\single\\20250910_110103",
+      "prediction": 7,
+      "prediction_name": "Krummholz",
+      "confidence": 56.60740280151367,
+      "probabilities": [
+        0.3892126679420471,
+        0.04336152598261833,
+        0.0007549304282292724,
+        8.737175085116178e-05,
+        0.00030837440863251686,
+        0.00020109929027967155,
+        0.566074013710022
+      ],
+      "inputs": {
+        "elevation": 3827,
+        "aspect": 108,
+        "slope": 62,
+        "horz_dist_hydro": 1892,
+        "vert_dist_hydro": 372,
+        "horz_dist_road": 1606,
+        "horz_dist_fire": 6438,
+        "hillshade_9am": 92,
+        "hillshade_noon": 107,
+        "hillshade_3pm": 76,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type32"
+      }
+    },
+    {
+      "timestamp": "20250910_110223",
+      "path": "Saved_Predictions\\single\\20250910_110223",
+      "prediction": 7,
+      "prediction_name": "Krummholz",
+      "confidence": 56.60740280151367,
+      "probabilities": [
+        0.3892126679420471,
+        0.04336152598261833,
+        0.0007549304282292724,
+        8.737175085116178e-05,
+        0.00030837440863251686,
+        0.00020109929027967155,
+        0.566074013710022
+      ],
+      "inputs": {
+        "elevation": 3827,
+        "aspect": 108,
+        "slope": 62,
+        "horz_dist_hydro": 1892,
+        "vert_dist_hydro": 372,
+        "horz_dist_road": 1606,
+        "horz_dist_fire": 6438,
+        "hillshade_9am": 92,
+        "hillshade_noon": 107,
+        "hillshade_3pm": 76,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type32"
+      }
+    },
+    {
+      "timestamp": "20250910_110250",
+      "path": "Saved_Predictions\\single\\20250910_110250",
+      "prediction": 2,
+      "prediction_name": "Lodgepole Pine",
+      "confidence": 66.88046264648438,
+      "probabilities": [
+        0.17266270518302917,
+        0.6688046455383301,
+        0.06111442297697067,
+        0.004071830306202173,
+        0.014750868082046509,
+        0.05404311418533325,
+        0.024552414193749428
+      ],
+      "inputs": {
+        "elevation": 1531,
+        "aspect": 315,
+        "slope": 74,
+        "horz_dist_hydro": 1531,
+        "vert_dist_hydro": 688,
+        "horz_dist_road": 6601,
+        "horz_dist_fire": 4960,
+        "hillshade_9am": 152,
+        "hillshade_noon": 224,
+        "hillshade_3pm": 167,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type36"
+      }
+    },
+    {
+      "timestamp": "20250910_111423",
+      "path": "Saved_Predictions\\single\\20250910_111423",
+      "prediction": 2,
+      "prediction_name": "Lodgepole Pine",
+      "confidence": 91.4796142578125,
+      "probabilities": [
+        0.0003240959777031094,
+        0.9147961735725403,
+        0.02067755162715912,
+        0.0002420356759103015,
+        0.006148175802081823,
+        0.057420313358306885,
+        0.000391633075196296
+      ],
+      "inputs": {
+        "elevation": 2500,
+        "aspect": 180,
+        "slope": 30,
+        "horz_dist_hydro": 250,
+        "vert_dist_hydro": 100,
+        "horz_dist_road": 600,
+        "horz_dist_fire": 800,
+        "hillshade_9am": 124,
+        "hillshade_noon": 124,
+        "hillshade_3pm": 124,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type1"
+      }
+    },
+    {
+      "timestamp": "20250910_111437",
+      "path": "Saved_Predictions\\single\\20250910_111437",
+      "prediction": 1,
+      "prediction_name": "Spruce/Fir",
+      "confidence": 53.653968811035156,
+      "probabilities": [
+        0.5365396738052368,
+        0.2721625566482544,
+        0.002323584631085396,
+        0.004274981562048197,
+        0.0003557814343366772,
+        0.0020178055856376886,
+        0.1823255568742752
+      ],
+      "inputs": {
+        "elevation": 3703,
+        "aspect": 267,
+        "slope": 51,
+        "horz_dist_hydro": 1294,
+        "vert_dist_hydro": 530,
+        "horz_dist_road": 1306,
+        "horz_dist_fire": 498,
+        "hillshade_9am": 35,
+        "hillshade_noon": 125,
+        "hillshade_3pm": 106,
+        "wilderness_area": "Wilderness_Area4",
+        "soil_type": "Soil_Type27"
+      }
+    },
+    {
+      "timestamp": "20250910_111603",
+      "path": "Saved_Predictions\\single\\20250910_111603",
+      "prediction": 3,
+      "prediction_name": "Ponderosa Pine",
+      "confidence": 69.53611755371094,
+      "probabilities": [
+        0.18764853477478027,
+        0.09106756001710892,
+        0.6953611969947815,
+        7.878597898525186e-06,
+        0.005628291051834822,
+        0.020270925015211105,
+        1.5585155779263005e-05
+      ],
+      "inputs": {
+        "elevation": 2661,
+        "aspect": 98,
+        "slope": 47,
+        "horz_dist_hydro": 710,
+        "vert_dist_hydro": 189,
+        "horz_dist_road": 2935,
+        "horz_dist_fire": 7859,
+        "hillshade_9am": 158,
+        "hillshade_noon": 32,
+        "hillshade_3pm": 193,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type32"
+      }
+    },
+    {
+      "timestamp": "20250910_112629",
+      "path": "Saved_Predictions\\single\\20250910_112629",
+      "prediction": 3,
+      "prediction_name": "Ponderosa Pine",
+      "confidence": 98.48712921142578,
+      "probabilities": [
+        0.007191741839051247,
+        0.0006554137216880918,
+        0.9848713278770447,
+        0.00012027842603856698,
+        6.0509846662171185e-05,
+        0.006672773510217667,
+        0.0004280966822989285
+      ],
+      "inputs": {
+        "elevation": 2175,
+        "aspect": 336,
+        "slope": 62,
+        "horz_dist_hydro": 238,
+        "vert_dist_hydro": 530,
+        "horz_dist_road": 3396,
+        "horz_dist_fire": 2691,
+        "hillshade_9am": 115,
+        "hillshade_noon": 42,
+        "hillshade_3pm": 158,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type40"
+      }
+    },
+    {
+      "timestamp": "20250910_114212",
+      "path": "Saved_Predictions\\single\\20250910_114212",
+      "prediction": 7,
+      "prediction_name": "Krummholz",
+      "confidence": 99.4471435546875,
+      "probabilities": [
+        0.004870238248258829,
+        0.0006115164724178612,
+        3.418328924453817e-05,
+        1.206470187753439e-06,
+        3.1517756724497303e-06,
+        8.257010449597146e-06,
+        0.9944714307785034
+      ],
+      "inputs": {
+        "elevation": 3561,
+        "aspect": 232,
+        "slope": 8,
+        "horz_dist_hydro": 470,
+        "vert_dist_hydro": 364,
+        "horz_dist_road": 3874,
+        "horz_dist_fire": 2450,
+        "hillshade_9am": 103,
+        "hillshade_noon": 186,
+        "hillshade_3pm": 184,
+        "wilderness_area": "Wilderness_Area3",
+        "soil_type": "Soil_Type21"
+      }
+    },
+    {
+      "timestamp": "20250910_115542",
+      "path": "Saved_Predictions\\single\\20250910_115542",
+      "prediction": 5,
+      "prediction_name": "Aspen",
+      "confidence": 90.7983627319336,
+      "probabilities": [
+        0.0015945739578455687,
+        0.010464644990861416,
+        0.0750335231423378,
+        0.0001898879127111286,
+        0.9079836010932922,
+        0.002217720029875636,
+        0.002516087144613266
+      ],
+      "inputs": {
+        "elevation": 2246,
+        "aspect": 37,
+        "slope": 35,
+        "horz_dist_hydro": 895,
+        "vert_dist_hydro": 616,
+        "horz_dist_road": 322,
+        "horz_dist_fire": 7470,
+        "hillshade_9am": 188,
+        "hillshade_noon": 157,
+        "hillshade_3pm": 173,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type19"
+      }
+    },
+    {
+      "timestamp": "20250910_120251",
+      "path": "Saved_Predictions\\single\\20250910_120251",
+      "prediction": 6,
+      "prediction_name": "Douglas-fir",
+      "confidence": 45.13754653930664,
+      "probabilities": [
+        0.2674087584018707,
+        0.13239805400371552,
+        0.11316443979740143,
+        0.027917180210351944,
+        0.00210248283110559,
+        0.45137545466423035,
+        0.005633554887026548
+      ],
+      "inputs": {
+        "elevation": 1868,
+        "aspect": 83,
+        "slope": 37,
+        "horz_dist_hydro": 1970,
+        "vert_dist_hydro": -195,
+        "horz_dist_road": 3878,
+        "horz_dist_fire": 687,
+        "hillshade_9am": 118,
+        "hillshade_noon": 74,
+        "hillshade_3pm": 52,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type3"
+      }
+    },
+    {
+      "timestamp": "20250910_120642",
+      "path": "Saved_Predictions\\single\\20250910_120642",
+      "prediction": 1,
+      "prediction_name": "Spruce/Fir",
+      "confidence": 74.97333526611328,
+      "probabilities": [
+        0.7497333288192749,
+        0.24700191617012024,
+        0.0002460576652083546,
+        3.4199423680547625e-05,
+        0.002154446206986904,
+        6.2580693338532e-05,
+        0.0007674943190068007
+      ],
+      "inputs": {
+        "elevation": 2965,
+        "aspect": 217,
+        "slope": 47,
+        "horz_dist_hydro": 723,
+        "vert_dist_hydro": 414,
+        "horz_dist_road": 1150,
+        "horz_dist_fire": 6972,
+        "hillshade_9am": 2,
+        "hillshade_noon": 55,
+        "hillshade_3pm": 180,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type1"
+      }
+    },
+    {
+      "timestamp": "20250911_124854",
+      "path": "Saved_Predictions\\single\\20250911_124854",
+      "prediction": 1,
+      "prediction_name": "Spruce/Fir",
+      "confidence": 90.3814468383789,
+      "probabilities": [
+        0.9038144946098328,
+        0.011082544922828674,
+        7.437624299200252e-05,
+        3.397492037038319e-05,
+        2.2923293727217242e-05,
+        9.9472890724428e-05,
+        0.08487220853567123
+      ],
+      "inputs": {
+        "elevation": 4382,
+        "aspect": 232,
+        "slope": 44,
+        "horz_dist_hydro": 670,
+        "vert_dist_hydro": -10,
+        "horz_dist_road": 232,
+        "horz_dist_fire": 444,
+        "hillshade_9am": 36,
+        "hillshade_noon": 193,
+        "hillshade_3pm": 50,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type3"
+      }
+    },
+    {
+      "timestamp": "20250911_124952",
+      "path": "Saved_Predictions\\single\\20250911_124952",
+      "prediction": 7,
+      "prediction_name": "Krummholz",
+      "confidence": 69.36193084716797,
+      "probabilities": [
+        0.30308398604393005,
+        0.002130807377398014,
+        0.0007020759512670338,
+        0.00023173599038273096,
+        4.552480822894722e-05,
+        0.00018656041356734931,
+        0.6936193108558655
+      ],
+      "inputs": {
+        "elevation": 4327,
+        "aspect": 114,
+        "slope": 68,
+        "horz_dist_hydro": 1790,
+        "vert_dist_hydro": -26,
+        "horz_dist_road": 2064,
+        "horz_dist_fire": 1812,
+        "hillshade_9am": 171,
+        "hillshade_noon": 106,
+        "hillshade_3pm": 64,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type39"
+      }
+    },
+    {
+      "timestamp": "20250911_125034",
+      "path": "Saved_Predictions\\single\\20250911_125034",
+      "prediction": 6,
+      "prediction_name": "Douglas-fir",
+      "confidence": 97.57872772216797,
+      "probabilities": [
+        2.6114077627426013e-05,
+        5.604671241599135e-05,
+        0.023967893794178963,
+        4.579829328577034e-05,
+        0.00011518038809299469,
+        0.9757872819900513,
+        1.6893051224542432e-06
+      ],
+      "inputs": {
+        "elevation": 1621,
+        "aspect": 203,
+        "slope": 6,
+        "horz_dist_hydro": 1980,
+        "vert_dist_hydro": 61,
+        "horz_dist_road": 1594,
+        "horz_dist_fire": 3269,
+        "hillshade_9am": 101,
+        "hillshade_noon": 242,
+        "hillshade_3pm": 109,
+        "wilderness_area": "Wilderness_Area3",
+        "soil_type": "Soil_Type32"
+      }
+    },
+    {
+      "timestamp": "20250911_125118",
+      "path": "Saved_Predictions\\single\\20250911_125118",
+      "prediction": 6,
+      "prediction_name": "Douglas-fir",
+      "confidence": 97.57872772216797,
+      "probabilities": [
+        2.6114077627426013e-05,
+        5.604671241599135e-05,
+        0.023967893794178963,
+        4.579829328577034e-05,
+        0.00011518038809299469,
+        0.9757872819900513,
+        1.6893051224542432e-06
+      ],
+      "inputs": {
+        "elevation": 1621,
+        "aspect": 203,
+        "slope": 6,
+        "horz_dist_hydro": 1980,
+        "vert_dist_hydro": 61,
+        "horz_dist_road": 1594,
+        "horz_dist_fire": 3269,
+        "hillshade_9am": 101,
+        "hillshade_noon": 242,
+        "hillshade_3pm": 109,
+        "wilderness_area": "Wilderness_Area3",
+        "soil_type": "Soil_Type32"
+      }
+    },
+    {
+      "timestamp": "20250911_125149",
+      "path": "Saved_Predictions\\single\\20250911_125149",
+      "prediction": 7,
+      "prediction_name": "Krummholz",
+      "confidence": 67.18021392822266,
+      "probabilities": [
+        0.3219050168991089,
+        0.006135865580290556,
+        0.00012014042295049876,
+        3.1848635444475804e-06,
+        8.996818905870896e-06,
+        2.459937059029471e-05,
+        0.6718021631240845
+      ],
+      "inputs": {
+        "elevation": 3481,
+        "aspect": 352,
+        "slope": 36,
+        "horz_dist_hydro": 238,
+        "vert_dist_hydro": 771,
+        "horz_dist_road": 4058,
+        "horz_dist_fire": 7489,
+        "hillshade_9am": 107,
+        "hillshade_noon": 183,
+        "hillshade_3pm": 219,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type22"
+      }
+    },
+    {
+      "timestamp": "20250911_153415",
+      "path": "Saved_Predictions\\single\\20250911_153415",
+      "prediction": 7,
+      "prediction_name": "Krummholz",
+      "confidence": 94.30699157714844,
+      "probabilities": [
+        0.03803110867738724,
+        0.013902132399380207,
+        0.00010732340160757303,
+        0.004775522742420435,
+        9.948972729034722e-05,
+        1.4521553566737566e-05,
+        0.9430699348449707
+      ],
+      "inputs": {
+        "elevation": 4258,
+        "aspect": 307,
+        "slope": 36,
+        "horz_dist_hydro": 782,
+        "vert_dist_hydro": 695,
+        "horz_dist_road": 7768,
+        "horz_dist_fire": 4496,
+        "hillshade_9am": 239,
+        "hillshade_noon": 108,
+        "hillshade_3pm": 34,
+        "wilderness_area": "Wilderness_Area4",
+        "soil_type": "Soil_Type36"
+      }
+    },
+    {
+      "timestamp": "20250911_160256",
+      "path": "Saved_Predictions\\single\\20250911_160256",
+      "prediction": 2,
+      "prediction_name": "Lodgepole Pine",
+      "confidence": 81.53509521484375,
+      "probabilities": [
+        0.049515094608068466,
+        0.8153509497642517,
+        0.08137252926826477,
+        0.0004798434965778142,
+        0.0476079061627388,
+        0.00555607583373785,
+        0.00011762952635763213
+      ],
+      "inputs": {
+        "elevation": 2806,
+        "aspect": 325,
+        "slope": 30,
+        "horz_dist_hydro": 561,
+        "vert_dist_hydro": 190,
+        "horz_dist_road": 384,
+        "horz_dist_fire": 3945,
+        "hillshade_9am": 150,
+        "hillshade_noon": 179,
+        "hillshade_3pm": 52,
+        "wilderness_area": "Wilderness_Area4",
+        "soil_type": "Soil_Type7"
+      }
+    },
+    {
+      "timestamp": "20250911_160339",
+      "path": "Saved_Predictions\\single\\20250911_160339",
+      "prediction": 7,
+      "prediction_name": "Krummholz",
+      "confidence": 99.92636108398438,
+      "probabilities": [
+        0.0007148715085349977,
+        1.670841629675124e-05,
+        2.423871876544581e-07,
+        2.5362660380778834e-06,
+        5.807871730212355e-07,
+        1.4164887716106023e-06,
+        0.9992635846138
+      ],
+      "inputs": {
+        "elevation": 4296,
+        "aspect": 356,
+        "slope": 19,
+        "horz_dist_hydro": 57,
+        "vert_dist_hydro": -108,
+        "horz_dist_road": 2913,
+        "horz_dist_fire": 5404,
+        "hillshade_9am": 21,
+        "hillshade_noon": 94,
+        "hillshade_3pm": 125,
+        "wilderness_area": "Wilderness_Area3",
+        "soil_type": "Soil_Type37"
+      }
+    },
+    {
+      "timestamp": "20250911_160405",
+      "path": "Saved_Predictions\\single\\20250911_160405",
+      "prediction": 7,
+      "prediction_name": "Krummholz",
+      "confidence": 99.92636108398438,
+      "probabilities": [
+        0.0007148715085349977,
+        1.670841629675124e-05,
+        2.423871876544581e-07,
+        2.5362660380778834e-06,
+        5.807871730212355e-07,
+        1.4164887716106023e-06,
+        0.9992635846138
+      ],
+      "inputs": {
+        "elevation": 4296,
+        "aspect": 356,
+        "slope": 19,
+        "horz_dist_hydro": 57,
+        "vert_dist_hydro": -108,
+        "horz_dist_road": 2913,
+        "horz_dist_fire": 5404,
+        "hillshade_9am": 21,
+        "hillshade_noon": 94,
+        "hillshade_3pm": 125,
+        "wilderness_area": "Wilderness_Area3",
+        "soil_type": "Soil_Type37"
+      }
+    },
+    {
+      "timestamp": "20250911_162702",
+      "path": "Saved_Predictions\\single\\20250911_162702",
+      "prediction": 1,
+      "prediction_name": "Spruce/Fir",
+      "confidence": 48.87919616699219,
+      "probabilities": [
+        0.48879197239875793,
+        0.08396401256322861,
+        0.00018363790877629071,
+        0.00011458246444817632,
+        4.2205025238217786e-05,
+        6.432110967580229e-05,
+        0.4268392026424408
+      ],
+      "inputs": {
+        "elevation": 4462,
+        "aspect": 62,
+        "slope": 23,
+        "horz_dist_hydro": 658,
+        "vert_dist_hydro": 117,
+        "horz_dist_road": 587,
+        "horz_dist_fire": 5970,
+        "hillshade_9am": 131,
+        "hillshade_noon": 101,
+        "hillshade_3pm": 193,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type36"
+      }
+    },
+    {
+      "timestamp": "20250911_162748",
+      "path": "Saved_Predictions\\single\\20250911_162748",
+      "prediction": 1,
+      "prediction_name": "Spruce/Fir",
+      "confidence": 48.87919616699219,
+      "probabilities": [
+        0.48879197239875793,
+        0.08396401256322861,
+        0.00018363790877629071,
+        0.00011458246444817632,
+        4.2205025238217786e-05,
+        6.432110967580229e-05,
+        0.4268392026424408
+      ],
+      "inputs": {
+        "elevation": 4462,
+        "aspect": 62,
+        "slope": 23,
+        "horz_dist_hydro": 658,
+        "vert_dist_hydro": 117,
+        "horz_dist_road": 587,
+        "horz_dist_fire": 5970,
+        "hillshade_9am": 131,
+        "hillshade_noon": 101,
+        "hillshade_3pm": 193,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type36"
+      }
+    },
+    {
+      "timestamp": "20250911_162922",
+      "path": "Saved_Predictions\\single\\20250911_162922",
+      "prediction": 1,
+      "prediction_name": "Spruce/Fir",
+      "confidence": 64.97970581054688,
+      "probabilities": [
+        0.6497970223426819,
+        0.08742567151784897,
+        0.00021096471755299717,
+        9.313220652984455e-05,
+        0.00024430142366327345,
+        6.79895092616789e-05,
+        0.26216089725494385
+      ],
+      "inputs": {
+        "elevation": 4256,
+        "aspect": 283,
+        "slope": 59,
+        "horz_dist_hydro": 1132,
+        "vert_dist_hydro": 573,
+        "horz_dist_road": 6181,
+        "horz_dist_fire": 1342,
+        "hillshade_9am": 49,
+        "hillshade_noon": 184,
+        "hillshade_3pm": 27,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type35"
+      }
+    },
+    {
+      "timestamp": "20250911_163248",
+      "path": "Saved_Predictions\\single\\20250911_163248",
+      "prediction": 3,
+      "prediction_name": "Ponderosa Pine",
+      "confidence": 51.95655822753906,
+      "probabilities": [
+        0.003899788483977318,
+        0.24342134594917297,
+        0.5195655822753906,
+        0.053312983363866806,
+        0.013538166880607605,
+        0.13650602102279663,
+        0.029756102710962296
+      ],
+      "inputs": {
+        "elevation": 1932,
+        "aspect": 132,
+        "slope": 59,
+        "horz_dist_hydro": 1795,
+        "vert_dist_hydro": 477,
+        "horz_dist_road": 653,
+        "horz_dist_fire": 50,
+        "hillshade_9am": 254,
+        "hillshade_noon": 141,
+        "hillshade_3pm": 202,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type19"
+      }
+    },
+    {
+      "timestamp": "20250911_163651",
+      "path": "Saved_Predictions\\single\\20250911_163651",
+      "prediction": 1,
+      "prediction_name": "Spruce/Fir",
+      "confidence": 82.64815521240234,
+      "probabilities": [
+        0.8264815211296082,
+        0.02326950989663601,
+        3.9294216549023986e-05,
+        2.090698944812175e-05,
+        9.466014489589725e-06,
+        7.595105125801638e-05,
+        0.1501034051179886
+      ],
+      "inputs": {
+        "elevation": 4172,
+        "aspect": 15,
+        "slope": 3,
+        "horz_dist_hydro": 535,
+        "vert_dist_hydro": 122,
+        "horz_dist_road": 1086,
+        "horz_dist_fire": 7465,
+        "hillshade_9am": 105,
+        "hillshade_noon": 194,
+        "hillshade_3pm": 119,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type31"
+      }
+    },
+    {
+      "timestamp": "20250911_163657",
+      "path": "Saved_Predictions\\single\\20250911_163657",
+      "prediction": 1,
+      "prediction_name": "Spruce/Fir",
+      "confidence": 82.64815521240234,
+      "probabilities": [
+        0.8264815211296082,
+        0.02326950989663601,
+        3.9294216549023986e-05,
+        2.090698944812175e-05,
+        9.466014489589725e-06,
+        7.595105125801638e-05,
+        0.1501034051179886
+      ],
+      "inputs": {
+        "elevation": 4172,
+        "aspect": 15,
+        "slope": 3,
+        "horz_dist_hydro": 535,
+        "vert_dist_hydro": 122,
+        "horz_dist_road": 1086,
+        "horz_dist_fire": 7465,
+        "hillshade_9am": 105,
+        "hillshade_noon": 194,
+        "hillshade_3pm": 119,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type31"
+      }
+    },
+    {
+      "timestamp": "20250911_163743",
+      "path": "Saved_Predictions\\single\\20250911_163743",
+      "prediction": 1,
+      "prediction_name": "Spruce/Fir",
+      "confidence": 82.64815521240234,
+      "probabilities": [
+        0.8264815211296082,
+        0.02326950989663601,
+        3.9294216549023986e-05,
+        2.090698944812175e-05,
+        9.466014489589725e-06,
+        7.595105125801638e-05,
+        0.1501034051179886
+      ],
+      "inputs": {
+        "elevation": 4172,
+        "aspect": 15,
+        "slope": 3,
+        "horz_dist_hydro": 535,
+        "vert_dist_hydro": 122,
+        "horz_dist_road": 1086,
+        "horz_dist_fire": 7465,
+        "hillshade_9am": 105,
+        "hillshade_noon": 194,
+        "hillshade_3pm": 119,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type31"
+      }
+    },
+    {
+      "timestamp": "20250911_163755",
+      "path": "Saved_Predictions\\single\\20250911_163755",
+      "prediction": 1,
+      "prediction_name": "Spruce/Fir",
+      "confidence": 82.64815521240234,
+      "probabilities": [
+        0.8264815211296082,
+        0.02326950989663601,
+        3.9294216549023986e-05,
+        2.090698944812175e-05,
+        9.466014489589725e-06,
+        7.595105125801638e-05,
+        0.1501034051179886
+      ],
+      "inputs": {
+        "elevation": 4172,
+        "aspect": 15,
+        "slope": 3,
+        "horz_dist_hydro": 535,
+        "vert_dist_hydro": 122,
+        "horz_dist_road": 1086,
+        "horz_dist_fire": 7465,
+        "hillshade_9am": 105,
+        "hillshade_noon": 194,
+        "hillshade_3pm": 119,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type31"
+      }
+    },
+    {
+      "timestamp": "20250911_164011",
+      "path": "Saved_Predictions\\single\\20250911_164011",
+      "prediction": 1,
+      "prediction_name": "Spruce/Fir",
+      "confidence": 82.64815521240234,
+      "probabilities": [
+        0.8264815211296082,
+        0.02326950989663601,
+        3.9294216549023986e-05,
+        2.090698944812175e-05,
+        9.466014489589725e-06,
+        7.595105125801638e-05,
+        0.1501034051179886
+      ],
+      "inputs": {
+        "elevation": 4172,
+        "aspect": 15,
+        "slope": 3,
+        "horz_dist_hydro": 535,
+        "vert_dist_hydro": 122,
+        "horz_dist_road": 1086,
+        "horz_dist_fire": 7465,
+        "hillshade_9am": 105,
+        "hillshade_noon": 194,
+        "hillshade_3pm": 119,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type31"
+      }
+    },
+    {
+      "timestamp": "20250911_164156",
+      "path": "Saved_Predictions\\single\\20250911_164156",
+      "prediction": 7,
+      "prediction_name": "Krummholz",
+      "confidence": 75.38829803466797,
+      "probabilities": [
+        0.2399190068244934,
+        0.0043270643800497055,
+        0.00045401809620670974,
+        0.0012696220073848963,
+        9.987402881961316e-05,
+        4.7399978939210996e-05,
+        0.7538830041885376
+      ],
+      "inputs": {
+        "elevation": 3706,
+        "aspect": 79,
+        "slope": 59,
+        "horz_dist_hydro": 1315,
+        "vert_dist_hydro": -73,
+        "horz_dist_road": 3344,
+        "horz_dist_fire": 2451,
+        "hillshade_9am": 142,
+        "hillshade_noon": 35,
+        "hillshade_3pm": 0,
+        "wilderness_area": "Wilderness_Area4",
+        "soil_type": "Soil_Type1"
+      }
+    },
+    {
+      "timestamp": "20250911_164322",
+      "path": "Saved_Predictions\\single\\20250911_164322",
+      "prediction": 2,
+      "prediction_name": "Lodgepole Pine",
+      "confidence": 91.4796142578125,
+      "probabilities": [
+        0.0003240959777031094,
+        0.9147961735725403,
+        0.02067755162715912,
+        0.0002420356759103015,
+        0.006148175802081823,
+        0.057420313358306885,
+        0.000391633075196296
+      ],
+      "inputs": {
+        "elevation": 2500,
+        "aspect": 180,
+        "slope": 30,
+        "horz_dist_hydro": 250,
+        "vert_dist_hydro": 100,
+        "horz_dist_road": 600,
+        "horz_dist_fire": 800,
+        "hillshade_9am": 124,
+        "hillshade_noon": 124,
+        "hillshade_3pm": 124,
+        "wilderness_area": "Wilderness_Area1",
+        "soil_type": "Soil_Type1"
+      }
+    },
+    {
+      "timestamp": "20250911_164439",
+      "path": "Saved_Predictions\\single\\20250911_164439",
+      "prediction": 2,
+      "prediction_name": "Lodgepole Pine",
+      "confidence": 77.10047149658203,
+      "probabilities": [
+        0.22562101483345032,
+        0.7710047364234924,
+        9.378531103720888e-05,
+        9.332261834060773e-05,
+        4.7711415390949696e-05,
+        4.445917147677392e-05,
+        0.003095047315582633
+      ],
+      "inputs": {
+        "elevation": 3225,
+        "aspect": 285,
+        "slope": 53,
+        "horz_dist_hydro": 899,
+        "vert_dist_hydro": 104,
+        "horz_dist_road": 7529,
+        "horz_dist_fire": 2148,
+        "hillshade_9am": 55,
+        "hillshade_noon": 14,
+        "hillshade_3pm": 172,
+        "wilderness_area": "Wilderness_Area4",
+        "soil_type": "Soil_Type33"
+      }
+    },
+    {
+      "timestamp": "20250911_164734",
+      "path": "Saved_Predictions\\single\\20250911_164734",
+      "prediction": 7,
+      "prediction_name": "Krummholz",
+      "confidence": 96.73095703125,
+      "probabilities": [
+        0.01769677922129631,
+        0.014774429611861706,
+        0.00014410710718948394,
+        1.5252717275870964e-05,
+        4.495224493439309e-05,
+        1.4913916857040022e-05,
+        0.9673095345497131
+      ],
+      "inputs": {
+        "elevation": 4209,
+        "aspect": 168,
+        "slope": 31,
+        "horz_dist_hydro": 1300,
+        "vert_dist_hydro": 798,
+        "horz_dist_road": 6915,
+        "horz_dist_fire": 7313,
+        "hillshade_9am": 151,
+        "hillshade_noon": 2,
+        "hillshade_3pm": 112,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type39"
+      }
+    },
+    {
+      "timestamp": "20250911_165100",
+      "path": "Saved_Predictions\\single\\20250911_165100",
+      "prediction": 5,
+      "prediction_name": "Aspen",
+      "confidence": 55.62431716918945,
+      "probabilities": [
+        0.008182516321539879,
+        0.03304434195160866,
+        0.037826064974069595,
+        7.221340638352558e-05,
+        0.5562431812286377,
+        0.3645823001861572,
+        4.941004954162054e-05
+      ],
+      "inputs": {
+        "elevation": 2471,
+        "aspect": 8,
+        "slope": 8,
+        "horz_dist_hydro": 68,
+        "vert_dist_hydro": 43,
+        "horz_dist_road": 3040,
+        "horz_dist_fire": 5720,
+        "hillshade_9am": 238,
+        "hillshade_noon": 254,
+        "hillshade_3pm": 140,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type36"
+      }
+    },
+    {
+      "timestamp": "20250911_165108",
+      "path": "Saved_Predictions\\single\\20250911_165108",
+      "prediction": 5,
+      "prediction_name": "Aspen",
+      "confidence": 55.62431716918945,
+      "probabilities": [
+        0.008182516321539879,
+        0.03304434195160866,
+        0.037826064974069595,
+        7.221340638352558e-05,
+        0.5562431812286377,
+        0.3645823001861572,
+        4.941004954162054e-05
+      ],
+      "inputs": {
+        "elevation": 2471,
+        "aspect": 8,
+        "slope": 8,
+        "horz_dist_hydro": 68,
+        "vert_dist_hydro": 43,
+        "horz_dist_road": 3040,
+        "horz_dist_fire": 5720,
+        "hillshade_9am": 238,
+        "hillshade_noon": 254,
+        "hillshade_3pm": 140,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type36"
+      }
+    },
+    {
+      "timestamp": "20250911_165114",
+      "path": "Saved_Predictions\\single\\20250911_165114",
+      "prediction": 5,
+      "prediction_name": "Aspen",
+      "confidence": 55.62431716918945,
+      "probabilities": [
+        0.008182516321539879,
+        0.03304434195160866,
+        0.037826064974069595,
+        7.221340638352558e-05,
+        0.5562431812286377,
+        0.3645823001861572,
+        4.941004954162054e-05
+      ],
+      "inputs": {
+        "elevation": 2471,
+        "aspect": 8,
+        "slope": 8,
+        "horz_dist_hydro": 68,
+        "vert_dist_hydro": 43,
+        "horz_dist_road": 3040,
+        "horz_dist_fire": 5720,
+        "hillshade_9am": 238,
+        "hillshade_noon": 254,
+        "hillshade_3pm": 140,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type36"
+      }
+    },
+    {
+      "timestamp": "20250911_165131",
+      "path": "Saved_Predictions\\single\\20250911_165131",
+      "prediction": 5,
+      "prediction_name": "Aspen",
+      "confidence": 55.62431716918945,
+      "probabilities": [
+        0.008182516321539879,
+        0.03304434195160866,
+        0.037826064974069595,
+        7.221340638352558e-05,
+        0.5562431812286377,
+        0.3645823001861572,
+        4.941004954162054e-05
+      ],
+      "inputs": {
+        "elevation": 2471,
+        "aspect": 8,
+        "slope": 8,
+        "horz_dist_hydro": 68,
+        "vert_dist_hydro": 43,
+        "horz_dist_road": 3040,
+        "horz_dist_fire": 5720,
+        "hillshade_9am": 238,
+        "hillshade_noon": 254,
+        "hillshade_3pm": 140,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type36"
+      }
+    },
+    {
+      "timestamp": "20250911_165205",
+      "path": "Saved_Predictions\\single\\20250911_165205",
+      "prediction": 2,
+      "prediction_name": "Lodgepole Pine",
+      "confidence": 71.33610534667969,
+      "probabilities": [
+        0.28590118885040283,
+        0.7133610844612122,
+        0.00026742200134322047,
+        9.856557153398171e-05,
+        7.5499941885937e-05,
+        7.678724796278402e-05,
+        0.00021937470592092723
+      ],
+      "inputs": {
+        "elevation": 3065,
+        "aspect": 183,
+        "slope": 35,
+        "horz_dist_hydro": 1839,
+        "vert_dist_hydro": 67,
+        "horz_dist_road": 3267,
+        "horz_dist_fire": 4189,
+        "hillshade_9am": 193,
+        "hillshade_noon": 104,
+        "hillshade_3pm": 84,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type40"
+      }
+    },
+    {
+      "timestamp": "20250911_165307",
+      "path": "Saved_Predictions\\single\\20250911_165307",
+      "prediction": 2,
+      "prediction_name": "Lodgepole Pine",
+      "confidence": 71.33610534667969,
+      "probabilities": [
+        0.28590118885040283,
+        0.7133610844612122,
+        0.00026742200134322047,
+        9.856557153398171e-05,
+        7.5499941885937e-05,
+        7.678724796278402e-05,
+        0.00021937470592092723
+      ],
+      "inputs": {
+        "elevation": 3065,
+        "aspect": 183,
+        "slope": 35,
+        "horz_dist_hydro": 1839,
+        "vert_dist_hydro": 67,
+        "horz_dist_road": 3267,
+        "horz_dist_fire": 4189,
+        "hillshade_9am": 193,
+        "hillshade_noon": 104,
+        "hillshade_3pm": 84,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type40"
+      }
+    },
+    {
+      "timestamp": "20250911_165418",
+      "path": "Saved_Predictions\\single\\20250911_165418",
+      "prediction": 6,
+      "prediction_name": "Douglas-fir",
+      "confidence": 82.14124298095703,
+      "probabilities": [
+        0.08097849041223526,
+        0.06568843126296997,
+        0.02963794395327568,
+        0.00020011962624266744,
+        0.0019550411961972713,
+        0.8214124441146851,
+        0.00012749004235956818
+      ],
+      "inputs": {
+        "elevation": 2445,
+        "aspect": 58,
+        "slope": 21,
+        "horz_dist_hydro": 552,
+        "vert_dist_hydro": -80,
+        "horz_dist_road": 3469,
+        "horz_dist_fire": 4512,
+        "hillshade_9am": 193,
+        "hillshade_noon": 228,
+        "hillshade_3pm": 162,
+        "wilderness_area": "Wilderness_Area3",
+        "soil_type": "Soil_Type26"
+      }
+    },
+    {
+      "timestamp": "20250911_165433",
+      "path": "Saved_Predictions\\single\\20250911_165433",
+      "prediction": 6,
+      "prediction_name": "Douglas-fir",
+      "confidence": 82.14124298095703,
+      "probabilities": [
+        0.08097849041223526,
+        0.06568843126296997,
+        0.02963794395327568,
+        0.00020011962624266744,
+        0.0019550411961972713,
+        0.8214124441146851,
+        0.00012749004235956818
+      ],
+      "inputs": {
+        "elevation": 2445,
+        "aspect": 58,
+        "slope": 21,
+        "horz_dist_hydro": 552,
+        "vert_dist_hydro": -80,
+        "horz_dist_road": 3469,
+        "horz_dist_fire": 4512,
+        "hillshade_9am": 193,
+        "hillshade_noon": 228,
+        "hillshade_3pm": 162,
+        "wilderness_area": "Wilderness_Area3",
+        "soil_type": "Soil_Type26"
+      }
+    },
+    {
+      "timestamp": "20250911_165635",
+      "path": "Saved_Predictions\\single\\20250911_165635",
+      "prediction": 6,
+      "prediction_name": "Douglas-fir",
+      "confidence": 82.14124298095703,
+      "probabilities": [
+        0.08097849041223526,
+        0.06568843126296997,
+        0.02963794395327568,
+        0.00020011962624266744,
+        0.0019550411961972713,
+        0.8214124441146851,
+        0.00012749004235956818
+      ],
+      "inputs": {
+        "elevation": 2445,
+        "aspect": 58,
+        "slope": 21,
+        "horz_dist_hydro": 552,
+        "vert_dist_hydro": -80,
+        "horz_dist_road": 3469,
+        "horz_dist_fire": 4512,
+        "hillshade_9am": 193,
+        "hillshade_noon": 228,
+        "hillshade_3pm": 162,
+        "wilderness_area": "Wilderness_Area3",
+        "soil_type": "Soil_Type26"
+      }
+    },
+    {
+      "timestamp": "20250911_165653",
+      "path": "Saved_Predictions\\single\\20250911_165653",
+      "prediction": 6,
+      "prediction_name": "Douglas-fir",
+      "confidence": 82.14124298095703,
+      "probabilities": [
+        0.08097849041223526,
+        0.06568843126296997,
+        0.02963794395327568,
+        0.00020011962624266744,
+        0.0019550411961972713,
+        0.8214124441146851,
+        0.00012749004235956818
+      ],
+      "inputs": {
+        "elevation": 2445,
+        "aspect": 58,
+        "slope": 21,
+        "horz_dist_hydro": 552,
+        "vert_dist_hydro": -80,
+        "horz_dist_road": 3469,
+        "horz_dist_fire": 4512,
+        "hillshade_9am": 193,
+        "hillshade_noon": 228,
+        "hillshade_3pm": 162,
+        "wilderness_area": "Wilderness_Area3",
+        "soil_type": "Soil_Type26"
+      }
+    },
+    {
+      "timestamp": "20250911_165715",
+      "path": "Saved_Predictions\\single\\20250911_165715",
+      "prediction": 6,
+      "prediction_name": "Douglas-fir",
+      "confidence": 82.14124298095703,
+      "probabilities": [
+        0.08097849041223526,
+        0.06568843126296997,
+        0.02963794395327568,
+        0.00020011962624266744,
+        0.0019550411961972713,
+        0.8214124441146851,
+        0.00012749004235956818
+      ],
+      "inputs": {
+        "elevation": 2445,
+        "aspect": 58,
+        "slope": 21,
+        "horz_dist_hydro": 552,
+        "vert_dist_hydro": -80,
+        "horz_dist_road": 3469,
+        "horz_dist_fire": 4512,
+        "hillshade_9am": 193,
+        "hillshade_noon": 228,
+        "hillshade_3pm": 162,
+        "wilderness_area": "Wilderness_Area3",
+        "soil_type": "Soil_Type26"
+      }
+    },
+    {
+      "timestamp": "20250911_165935",
+      "path": "Saved_Predictions\\single\\20250911_165935",
+      "prediction": 7,
+      "prediction_name": "Krummholz",
+      "confidence": 85.34638977050781,
+      "probabilities": [
+        0.14461907744407654,
+        0.0017367552500218153,
+        3.491868847049773e-05,
+        3.595072848838754e-05,
+        4.629469913197681e-05,
+        6.312034383881837e-05,
+        0.853463888168335
+      ],
+      "inputs": {
+        "elevation": 4152,
+        "aspect": 259,
+        "slope": 68,
+        "horz_dist_hydro": 1006,
+        "vert_dist_hydro": -38,
+        "horz_dist_road": 4138,
+        "horz_dist_fire": 7537,
+        "hillshade_9am": 1,
+        "hillshade_noon": 144,
+        "hillshade_3pm": 196,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type13"
+      }
+    },
+    {
+      "timestamp": "20250911_171556",
+      "path": "Saved_Predictions\\single\\20250911_171556",
+      "prediction": 6,
+      "prediction_name": "Douglas-fir",
+      "confidence": 50.904457092285156,
+      "probabilities": [
+        0.005791954696178436,
+        0.00136031664442271,
+        0.48165735602378845,
+        0.0013662321725860238,
+        0.0005164078902453184,
+        0.5090445876121521,
+        0.0002631784009281546
+      ],
+      "inputs": {
+        "elevation": 1859,
+        "aspect": 302,
+        "slope": 16,
+        "horz_dist_hydro": 1784,
+        "vert_dist_hydro": 365,
+        "horz_dist_road": 7633,
+        "horz_dist_fire": 3389,
+        "hillshade_9am": 201,
+        "hillshade_noon": 188,
+        "hillshade_3pm": 62,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type1"
+      }
+    },
+    {
+      "timestamp": "20250911_172130",
+      "path": "Saved_Predictions\\single\\20250911_172130",
+      "prediction": 6,
+      "prediction_name": "Douglas-fir",
+      "confidence": 50.904457092285156,
+      "probabilities": [
+        0.005791954696178436,
+        0.00136031664442271,
+        0.48165735602378845,
+        0.0013662321725860238,
+        0.0005164078902453184,
+        0.5090445876121521,
+        0.0002631784009281546
+      ],
+      "inputs": {
+        "elevation": 1859,
+        "aspect": 302,
+        "slope": 16,
+        "horz_dist_hydro": 1784,
+        "vert_dist_hydro": 365,
+        "horz_dist_road": 7633,
+        "horz_dist_fire": 3389,
+        "hillshade_9am": 201,
+        "hillshade_noon": 188,
+        "hillshade_3pm": 62,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type1"
+      }
+    },
+    {
+      "timestamp": "20250911_172137",
+      "path": "Saved_Predictions\\single\\20250911_172137",
+      "prediction": 6,
+      "prediction_name": "Douglas-fir",
+      "confidence": 50.904457092285156,
+      "probabilities": [
+        0.005791954696178436,
+        0.00136031664442271,
+        0.48165735602378845,
+        0.0013662321725860238,
+        0.0005164078902453184,
+        0.5090445876121521,
+        0.0002631784009281546
+      ],
+      "inputs": {
+        "elevation": 1859,
+        "aspect": 302,
+        "slope": 16,
+        "horz_dist_hydro": 1784,
+        "vert_dist_hydro": 365,
+        "horz_dist_road": 7633,
+        "horz_dist_fire": 3389,
+        "hillshade_9am": 201,
+        "hillshade_noon": 188,
+        "hillshade_3pm": 62,
+        "wilderness_area": "Wilderness_Area2",
+        "soil_type": "Soil_Type1"
+      }
+    }
+  ],
+  "batch": [
+    {
+      "file": "batch_predictions_20250721_160631.csv",
+      "rows": 15120,
+      "path": "Saved_Predictions\\batch\\20250909_161001",
+      "predictions_preview": [
+        5,
+        5,
+        2,
+        2,
+        5,
+        2,
+        5,
+        5,
+        5,
+        5
+      ],
+      "timestamp": "2025-09-09 16:10:01"
+    },
+    {
+      "file": "batch_predictions_20250721_160631.csv",
+      "rows": 15120,
+      "path": "Saved_Predictions\\batch\\20250909_161229",
+      "predictions_preview": [
+        5,
+        5,
+        2,
+        2,
+        5,
+        2,
+        5,
+        5,
+        5,
+        5
+      ],
+      "timestamp": "2025-09-09 16:12:30"
+    },
+    {
+      "file": "batch_predictions_20250721_160631.csv",
+      "rows": 15120,
+      "path": "Saved_Predictions\\batch\\20250909_202029",
+      "predictions_preview": [
+        5,
+        5,
+        2,
+        2,
+        5,
+        2,
+        5,
+        5,
+        5,
+        5
+      ],
+      "timestamp": "2025-09-09 20:20:30"
+    },
+    {
+      "file": "batch_predictions_20250721_160631.csv",
+      "rows": 15120,
+      "path": "Saved_Predictions\\batch\\20250909_202254",
+      "predictions_preview": [
+        5,
+        5,
+        2,
+        2,
+        5,
+        2,
+        5,
+        5,
+        5,
+        5
+      ],
+      "timestamp": "2025-09-09 20:22:55"
+    },
+    {
+      "file": "forest_cover_template (3).csv",
+      "rows": 3,
+      "path": "Saved_Predictions\\batch\\20250909_202426",
+      "predictions_preview": [
+        5,
+        2,
+        5
+      ],
+      "timestamp": "2025-09-09 20:24:27"
+    },
+    {
+      "file": "forest_cover_template (3).csv",
+      "rows": 3,
+      "path": "Saved_Predictions\\batch\\20250909_202551",
+      "predictions_preview": [
+        5,
+        2,
+        5
+      ],
+      "timestamp": "2025-09-09 20:25:52"
+    },
+    {
+      "file": "forest_cover_predictions.csv",
+      "rows": 15120,
+      "path": "Saved_Predictions\\batch\\20250910_001857",
+      "predictions_preview": [
+        5,
+        5,
+        2,
+        2,
+        5,
+        2,
+        5,
+        5,
+        5,
+        5
+      ],
+      "timestamp": "2025-09-10 00:18:58"
+    },
+    {
+      "file": "forest_cover_template (2).csv",
+      "rows": 3,
+      "path": "Saved_Predictions\\batch\\20250910_002445",
+      "predictions_preview": [
+        5,
+        2,
+        5
+      ],
+      "timestamp": "20250910_002445"
+    },
+    {
+      "file": "forest_cover_template (1).csv",
+      "rows": 3,
+      "path": "Saved_Predictions\\batch\\20250910_002510",
+      "predictions_preview": [
+        5,
+        2,
+        5
+      ],
+      "timestamp": "2025-09-10 00:25:10"
+    },
+    {
+      "file": "forest_cover_template.csv",
+      "rows": 17,
+      "path": "Saved_Predictions\\batch\\20250910_114320",
+      "predictions_preview": [
+        7,
+        1,
+        3,
+        7,
+        7,
+        7,
+        3,
+        5,
+        1,
+        1
+      ],
+      "timestamp": "2025-09-10 11:43:21"
+    },
+    {
+      "file": "forest_cover_template.csv",
+      "rows": 17,
+      "path": "Saved_Predictions\\batch\\20250910_115659",
+      "predictions_preview": [
+        7,
+        1,
+        3,
+        7,
+        7,
+        7,
+        3,
+        5,
+        1,
+        1
+      ],
+      "timestamp": "2025-09-10 11:57:00"
+    },
+    {
+      "file": "forest_cover_template.csv",
+      "rows": 17,
+      "path": "Saved_Predictions\\batch\\20250910_121236",
+      "predictions_preview": [
+        7,
+        1,
+        3,
+        7,
+        7,
+        7,
+        3,
+        5,
+        1,
+        1
+      ],
+      "timestamp": "2025-09-10 12:12:36"
+    },
+    {
+      "file": "forest_cover_template.csv",
+      "rows": 10,
+      "path": "Saved_Predictions\\batch\\20250911_121057",
+      "predictions_preview": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1,
+        7,
+        7,
+        7
+      ],
+      "timestamp": "2025-09-11 12:10:58"
+    },
+    {
+      "file": "forest_cover_template.csv",
+      "rows": 10,
+      "path": "Saved_Predictions\\batch\\20250911_153441",
+      "predictions_preview": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1,
+        7,
+        7,
+        7
+      ],
+      "timestamp": "2025-09-11 15:34:41"
+    },
+    {
+      "file": "forest_cover_template.csv",
+      "rows": 10,
+      "path": "Saved_Predictions\\batch\\20250911_170420",
+      "predictions_preview": [
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        1,
+        7,
+        7,
+        7
+      ],
+      "timestamp": "2025-09-11 17:04:21"
+    }
+  ]
+}
