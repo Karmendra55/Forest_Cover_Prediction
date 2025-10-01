@@ -1,4 +1,4 @@
-Forest Cover Type Prediction
+# Forest Cover Type Prediction
 
 An intelligent Streamlit-based web application to predict forest cover types using geographical and environmental parameters. Powered by XGBoost, this tool enables researchers, forestry managers, and environmental analysts to make data-driven predictions about forest ecology.
 
@@ -65,9 +65,9 @@ The **Forest Cover Type Prediction System** classifies forest patches into one o
 - User Customization: Multiple themes (Light, Dark, Tree) for an enhanced experience.  
 - Intro Voice Assistant: Provides a guided briefing on first use.   
 
-Forest Cover Types Mapping
+## Forest Cover Types Mapping
 
-The original dataset used has numbers and cover types to denote vegetation types. For improved **readability and usability**, these were mapped to **forest type names**:
+Numeric codes in the dataset are mapped to cover type names for better readability:
 ```Markdown
 | Number | Cover Type Name   |
 ------------------------------
@@ -79,16 +79,17 @@ The original dataset used has numbers and cover types to denote vegetation types
 | 6      | Douglas-fir       |
 | 7      | Krummholz         |
 ```
-This conversion ensures users understand predictions without referring back to raw codes.
 
-Run the `install_modules.bat` file 
-then follow the steps below
+## Model
 
-Run Locally
-> Clone this repository and execute:  
-bash: On a terminal to Run the program
-streamlit `run main.py` 
+- Algorithm: XGBoost classifier trained on environmental and geographical features.
+- Features: 54 environmental parameters for prediction.
+- Inputs: The User can upload batches of inputs and just one input for predictions.
+- Output: Forest cover type classification with probability scores.
 
-OR
+  ## Features
 
-Open the `Run.bat` file in the root folder
+- Single patch prediction.
+- Batch prediction via CSV upload.
+- Interactive visualizations of predictions.
+- Theme customization and voice-guided introduction.
